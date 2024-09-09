@@ -1,0 +1,11 @@
+comer
+cenar
+barrer
+gatear
+comer
+cenar
+barrer
+gatear
+1
+2
+oler
